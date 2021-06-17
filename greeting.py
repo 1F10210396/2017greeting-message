@@ -1,6 +1,6 @@
-def greet(name):
-    message = 'Hello, ' + name + '-san!'
+def hello():
+    message = 'Hello'
     print(message)
 
 
-greet('Inoue')
+hello()
